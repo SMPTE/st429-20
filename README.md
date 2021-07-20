@@ -2,7 +2,7 @@
 
 ## General
 
-This Committee Draft of SMPTE ST 429-20 IED [21DC-CD-ST-429-20-202X-1ED.pdf](21DC-CD-ST-429-20-202X-1ED.pdf) is made available by the 
+This Committee Draft of SMPTE ST 429-20 1ED [21DC-CD-ST-429-20-202X-1ED.pdf](21DC-CD-ST-429-20-202X-1ED.pdf) is made available by the 
 [Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period ending no earlier than Feb 1, 2022, and no later than Aug 1, 2022.
 
 ## Documents
