@@ -1,20 +1,14 @@
-# Public Committee Draft of SMPTE ST 429-20 1ED (1st edition)
+# ST 429-20 1ED (1st edition)
+Public CD of [SMPTE ST 429-20 1ED](21DC-CD-ST-429-20-202X-1ED.pdf)
 
-## General
-
-This Committee Draft of SMPTE ST 429-20 1ED [21DC-CD-ST-429-20-202X-1ED.pdf](21DC-CD-ST-429-20-202X-1ED.pdf) is made available by the 
-[Society of Motion Picture and Television Engineers](https://www.smpte.org) for a public review period ending no earlier than Feb 1, 2022, and no later than Aug 1, 2022.
-
-## Documents
-
-* [21DC-CD-ST-429-20-202X-1ED.pdf](21DC-CD-ST-429-20-202X-1ED.pdf) is the text of the 1st edition.
-
-## Feedback
-
-Please provide feedback at [GitHub issues](https://github.com/SMPTE/st429-20/issues) (preferred) or [21dc-chair@smpte.org](mailto:21dc-chair@smpte.org).
-
----
+[GitHub issues](https://github.com/SMPTE/st429-20/issues) are preferred for discussion of this specification. Alternatively, comments can be sent to [21dc-chair@smpte.org](mailto:21dc-chair@smpte.org).
 
 This material is work under development and shall not be referred to as a SMPTE Standard, Recommended Practice, or Engineering Guideline. It is distributed for review and comment; distribution does not constitute publication.
 
-Please see CONTRIBUTING.md, PATENT.md and LICENSE.md for important intellectual property information.
+Please be aware that all contributions to this material are being conducted in accordance with the SMPTE Standards Operations Manual, which is accessible on the SMPTE website with the Society Bylaws:
+
+https://www.smpte.org/about/policies-and-governance
+
+Your comments and contributions, whether as a member or guest, are governed by these provisions and any comment or contribution made by you indicates your acknowledgement that you understand and are complying with the full form of the Operations Manual. Please take careful note of the sections requiring contributors to inform the Committee of personal knowledge of any claims under any issued patent or any reminder is not a substitute for a contributor’s responsibility to fully read, understand, and comply with the full Standards Operations Manual.
+
+Please see [PatentNotice.md](PatentNotice.md) and [CopyrightNotice.md](CopyrightNotice.md) for important intellectual property information.
