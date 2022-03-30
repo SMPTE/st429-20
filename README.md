@@ -1,7 +1,7 @@
 # ST 429-20 1ED (1st edition)
-Public CD of [SMPTE ST 429-20 1ED](21DC-CD-ST-429-20-202X-1ED.pdf)
+Public CD2 of [SMPTE ST 429-20 1ED](21DC-CD2-ST-429-20-202X-1ED.pdf)
 
-This document is made available for a public review period ending no earlier than `2022-01-23`, and no later than `2022-07-23`.
+This document is made available for a public review period ending no earlier than `2022-09-30`, and no later than `2022-09-30`.
 
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
