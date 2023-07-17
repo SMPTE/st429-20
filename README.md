@@ -2,6 +2,8 @@
 
 _This repository is public._ 
 
+Latest published edition of SMPTE ST 428-20: <https://doi.org/10.5594/SMPTE.ST429-20.2023>
+
 Please consult [CONTRIBUTING.md](./CONTRIBUTING.md), [CONFIDENTIALITY.md](./CONFIDENTIALITY.md), [LICENSE.md](./LICENSE.md) and [PATENTS.md](./PATENTS.md) for important notices.
 
 ## Reporting issues
